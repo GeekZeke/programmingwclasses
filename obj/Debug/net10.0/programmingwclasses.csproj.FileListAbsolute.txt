@@ -1,0 +1,15 @@
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.AssemblyInfoInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.AssemblyInfo.cs
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.csproj.CoreCompileInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.sourcelink.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\bin\Debug\net10.0\programmingwclasses.exe
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\bin\Debug\net10.0\programmingwclasses.deps.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\bin\Debug\net10.0\programmingwclasses.runtimeconfig.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\bin\Debug\net10.0\programmingwclasses.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\bin\Debug\net10.0\programmingwclasses.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\refint\programmingwclasses.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\programmingwclasses.genruntimeconfig.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\obj\Debug\net10.0\ref\programmingwclasses.dll
