@@ -1,0 +1,15 @@
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\bin\Debug\net10.0\learning03.exe
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\bin\Debug\net10.0\learning03.deps.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\bin\Debug\net10.0\learning03.runtimeconfig.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\bin\Debug\net10.0\learning03.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\bin\Debug\net10.0\learning03.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.AssemblyInfoInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.AssemblyInfo.cs
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.csproj.CoreCompileInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.sourcelink.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\refint\learning03.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\learning03.genruntimeconfig.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\learning03\obj\Debug\net10.0\ref\learning03.dll
