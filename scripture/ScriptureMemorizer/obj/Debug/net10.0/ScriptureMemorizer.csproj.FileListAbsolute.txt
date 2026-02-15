@@ -1,0 +1,15 @@
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.sourcelink.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.exe
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.deps.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.runtimeconfig.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\refint\ScriptureMemorizer.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\scripture\ScriptureMemorizer\obj\Debug\net10.0\ref\ScriptureMemorizer.dll
