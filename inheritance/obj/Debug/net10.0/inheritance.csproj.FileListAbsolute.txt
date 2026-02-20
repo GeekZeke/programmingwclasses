@@ -1,0 +1,15 @@
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\bin\Debug\net10.0\inheritance.exe
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\bin\Debug\net10.0\inheritance.deps.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\bin\Debug\net10.0\inheritance.runtimeconfig.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\bin\Debug\net10.0\inheritance.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\bin\Debug\net10.0\inheritance.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfo.cs
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.sourcelink.json
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\refint\inheritance.dll
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.pdb
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\inheritance.genruntimeconfig.cache
+C:\Users\zekee\Desktop\byui_freshman_winter\JRYEAR2026WIN\programmingwclasses\inheritance\obj\Debug\net10.0\ref\inheritance.dll
